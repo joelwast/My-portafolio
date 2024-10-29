@@ -133,6 +133,111 @@ export default function IndexEs() {
                 </div>
               </div>
             </div>
+
+            <div className="card-proyecto">
+              <div className="img-card">
+                spa
+              </div>
+              <div className="info-card">
+              <p>Servidor de mensajes para una red local</p>
+                <div className="tecnologias-card">
+                  <span>Nodejs</span>
+                  <span>Reactjs</span>
+                  <span>Firebase</span>
+                  <span>Sql</span>
+                  <span>Css</span>
+                  
+                </div>
+                <div className="enlaces-card">
+                  <a href="github"> <Github width='17' height='17'/></a>
+                  <a href="demo">Demo </a>
+                </div>
+              </div>
+            </div>
+
+            <div className="card-proyecto">
+              <div className="img-card">
+                spa
+              </div>
+              <div className="info-card">
+              <p>Servidor de mensajes para una red local</p>
+                <div className="tecnologias-card">
+                  <span>Nodejs</span>
+                  <span>Reactjs</span>
+                  <span>Firebase</span>
+                  <span>Sql</span>
+                  <span>Css</span>
+                  
+                </div>
+                <div className="enlaces-card">
+                  <a href="github"> <Github width='17' height='17'/></a>
+                  <a href="demo">Demo </a>
+                </div>
+              </div>
+            </div>
+
+            <div className="card-proyecto">
+              <div className="img-card">
+                spa
+              </div>
+              <div className="info-card">
+              <p>Servidor de mensajes para una red local</p>
+                <div className="tecnologias-card">
+                  <span>Nodejs</span>
+                  <span>Reactjs</span>
+                  <span>Firebase</span>
+                  <span>Sql</span>
+                  <span>Css</span>
+                  
+                </div>
+                <div className="enlaces-card">
+                  <a href="github"> <Github width='17' height='17'/></a>
+                  <a href="demo">Demo </a>
+                </div>
+              </div>
+            </div>
+
+            <div className="card-proyecto">
+              <div className="img-card">
+                spa
+              </div>
+              <div className="info-card">
+              <p>Servidor de mensajes para una red local</p>
+                <div className="tecnologias-card">
+                  <span>Nodejs</span>
+                  <span>Reactjs</span>
+                  <span>Firebase</span>
+                  <span>Sql</span>
+                  <span>Css</span>
+                  
+                </div>
+                <div className="enlaces-card">
+                  <a href="github"> <Github width='17' height='17'/></a>
+                  <a href="demo">Demo </a>
+                </div>
+              </div>
+            </div>
+
+            <div className="card-proyecto">
+              <div className="img-card">
+                spa
+              </div>
+              <div className="info-card">
+              <p>Servidor de mensajes para una red local</p>
+                <div className="tecnologias-card">
+                  <span>Nodejs</span>
+                  <span>Reactjs</span>
+                  <span>Firebase</span>
+                  <span>Sql</span>
+                  <span>Css</span>
+                  
+                </div>
+                <div className="enlaces-card">
+                  <a href="github"> <Github width='17' height='17'/></a>
+                  <a href="demo">Demo </a>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
