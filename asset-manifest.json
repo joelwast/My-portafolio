@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/My-portafolio/static/css/main.1c49b418.css",
+    "main.js": "/My-portafolio/static/js/main.5f59265f.js",
+    "static/js/453.8cae3178.chunk.js": "/My-portafolio/static/js/453.8cae3178.chunk.js",
+    "static/media/foto-de-cv.png": "/My-portafolio/static/media/foto-de-cv.003c45061feec9e91903.png",
+    "static/media/Joel Peringuez Cv.pdf": "/My-portafolio/static/media/Joel Peringuez Cv.2f366d209f90aaf47a2a.pdf",
+    "index.html": "/My-portafolio/index.html",
+    "main.1c49b418.css.map": "/My-portafolio/static/css/main.1c49b418.css.map",
+    "main.5f59265f.js.map": "/My-portafolio/static/js/main.5f59265f.js.map",
+    "453.8cae3178.chunk.js.map": "/My-portafolio/static/js/453.8cae3178.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c49b418.css",
+    "static/js/main.5f59265f.js"
+  ]
+}
